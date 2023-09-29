@@ -16,8 +16,10 @@ namespace SnakeAndLadder
             //Check.Start();
             //WiningPosition winingPosition = new WiningPosition();
             //winingPosition.Start();
-            ExactWinning exactWinning = new ExactWinning();
-            exactWinning.Start();
+            //ExactWinning exactWinning = new ExactWinning();
+            //exactWinning.Start();
+            CheckTheDieThrown checkTheDieThrown = new CheckTheDieThrown();
+            checkTheDieThrown.Start();
 
 
         }
