@@ -18,8 +18,11 @@ namespace SnakeAndLadder
             //winingPosition.Start();
             //ExactWinning exactWinning = new ExactWinning();
             //exactWinning.Start();
-            CheckTheDieThrown checkTheDieThrown = new CheckTheDieThrown();
-            checkTheDieThrown.Start();
+            //CheckTheDieThrown checkTheDieThrown = new CheckTheDieThrown();
+            //checkTheDieThrown.Start();
+            
+            GameForTwoPlayers gameForTwoPlayers = new GameForTwoPlayers();
+            gameForTwoPlayers.Start();
 
 
         }
